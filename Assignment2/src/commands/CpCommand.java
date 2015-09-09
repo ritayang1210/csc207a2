@@ -19,6 +19,8 @@ import fileSystem.FileSystem;
  * the target Dir. When the target directory dosen's exists, the
  * program will create the directory. When the File/Dir is copied to
  * its original parent, the original File/Dir will be replaced.
+ * 
+ * This is written by Rita
  *
  */
 public class CpCommand extends JShellCommand {
