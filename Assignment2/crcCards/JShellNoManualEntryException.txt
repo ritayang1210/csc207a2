@@ -1,0 +1,8 @@
+Class name: JShellNoManualEntryException
+Parent class: JShellException
+
+Responsibilities:
+* print error message when manual entry doesn't exist
+
+Collaborators:
+* None

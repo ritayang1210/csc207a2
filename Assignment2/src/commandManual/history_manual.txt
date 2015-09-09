@@ -1,0 +1,4 @@
+history NUMBER
+
+Print out the recent commands entered truncated by the number 
+after the command.

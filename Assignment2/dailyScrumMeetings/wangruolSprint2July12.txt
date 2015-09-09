@@ -1,0 +1,9 @@
+What did I do last time?
+	-Implemented EchoCommand
+
+What do I plan to do now?
+	-Write ExitCommandTest 
+
+
+Am I blocked on anything?
+	-None

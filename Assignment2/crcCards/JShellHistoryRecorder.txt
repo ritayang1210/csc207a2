@@ -1,0 +1,10 @@
+Class name: JShellHistoryRecorder
+
+Responsibilities:
+* Add a new record of command
+* Get complete history
+* Get most recent n history records
+* Get a specific record with history number
+
+Collaborators:
+* JShellEventNotFoundException

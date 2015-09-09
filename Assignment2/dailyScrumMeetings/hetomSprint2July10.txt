@@ -1,0 +1,10 @@
+What did I do last time?
+	-Implemented CdCommand
+	-Implemented LsCommand
+	-Made JShellCommand Observable and JShell Observer
+What do I plan to do now?
+	-Implement CatCommand
+	-Debug Cd and Ls if needed
+
+Am I blocked on anything?
+	-None

@@ -1,0 +1,3 @@
+man CMD
+
+Print documentation for CMD.

@@ -1,0 +1,19 @@
+Class name: GrepCommand
+Parent class: JShellCommand
+
+Responsibilities:
+* check if the arguments of command that the user types is valid or not.
+* check if the regular expression is inputed as required.
+* Global search for regular expression given by user in given file(s).
+* Global recursively search for regular expression given by user in given Directory(s) and files(s)
+* search a given regular expression in a single file
+* search a given regular expression in a single directory non recursively
+
+Collaborators:
+* Directory
+* File
+* FileSystem
+* JshellArgsInvalidException
+* JShellIsNotFileException
+* JShellPathInvalidException
+* JShellFileNotFoundException

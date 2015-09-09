@@ -1,0 +1,9 @@
+What did I do last time?
+    - Implemented Mvcommand and EchoCommand
+    - Refactor Directory, File and FileSystem
+   
+What do I plan to do now?
+    - Implementing unit test for MkdirCommand, MvCommand and ManCommand
+    
+Am I blocked on anything?
+    - implementation about how to prevent from copy/moving a Directory into its child.

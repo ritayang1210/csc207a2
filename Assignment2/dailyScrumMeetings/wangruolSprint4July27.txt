@@ -1,0 +1,11 @@
+What did I do last last time?
+    - Implemented HistoryCommand
+    - Implemented JShellHistoryReocorder 
+
+What do I plan to do now?
+	- To implement HistoryCommandTest
+	- To implement !number 
+
+	
+Am I blocked on anything?
+	- None

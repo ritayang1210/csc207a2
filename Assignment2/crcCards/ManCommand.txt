@@ -1,0 +1,25 @@
+Class Name: ManCommand
+Parent class: JShellCommand
+
+Responsibilities:
+* check the arguments of command that the user types is valid or not
+* Prints out details of a given valid commands for JShell
+
+Collaborators:
+* CmdManager
+* ExitCommand
+* MkdirCommand
+* CdCommand
+* LsCommand
+* PwdCommand
+* MvCommand
+* CpCommand
+* CatCommand
+* GetCommand
+* EchoCommand
+* PushdCommand
+* PopdCommand
+* GrepCommand
+* HistoryCommand
+* PwdCommand
+* JShellNoManualEntryException

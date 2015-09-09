@@ -1,0 +1,21 @@
+July 26 - July 30
+
+Product Backlog Items to be implemented:
+a)As a user, I want my program to run correctly with few bugs, so that the 
+	behaviors of the program is within my expectation.
+
+Specific tasks to be implemented:
+a. Implement JUNIT Test for redirection of commands
+b. Implement JUNIT Test for PushdCommand
+c. Implement JUNIT Test for PopdCommand
+d. Implement JUNIT Test for option in LsCommand
+e. Implement JUNIT Test for GetCommand
+f. Implement JUNIT Test for HistoryCommand
+g. Implement JUNIT Test for GrepCommand
+h. Implement JUNIT Test for !numberCommand
+
+Tasks are assigned as follows:
+Tom He: b,c
+Ran Yang: a,d
+Ruolan Wang: f,h
+Jiawei Zhao: e,g

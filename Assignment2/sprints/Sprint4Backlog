@@ -1,0 +1,39 @@
+July 20 - July 25
+
+Product Backlog Items to be implemented:
+a)As a user, I want to keep track of the output of any
+command so that I read remember them.
+
+b)As a user, I want to recursively list sub directories, 
+so I can know all my files. 
+
+c)As a user, I want to get files from the web, so I can 
+get new files.   
+
+d)As a user, I want to change directories and while saving
+the current one so I can return to it. 
+
+e)As a user, I want to keep track of the commands I use so
+that I can remember what I have done.  
+
+f)As a user, I want to quickly reuse past commands, so that
+I can save time. 
+
+g)As a user, I want to be able to find certain contents of 
+my files, so that I can read them. 
+
+Specific tasks to be implemented:
+a) Allow all commands except exit to be redirected.
+b) Add an option to ls to recursively list all sub directories.
+c) Implement getCommand.
+d-1) Implement pushdCommand.
+d-2) Implement popdCommand. 
+e) Implement historyCommand.
+f) Implement !numberCommand.
+g) Implement grepCommand.
+
+Tasks are assigned as follows:
+Tom He: d-1, d-2
+Ran Yang: a, b
+Ruolan Wang: e, f
+Jiawei Zhao: c, g

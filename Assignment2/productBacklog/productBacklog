@@ -1,0 +1,45 @@
+User stories
+Format:
+As ... I want to ... so that ...
+
+                                                         |    Estimated Time
+---------------------------------------------------------|---------------------
+Allow user to create a file system. Based on Input.      |		3 Day
+---------------------------------------------------------|---------------------
+As a user, I want to quit the program, so I can          |		1 Day
+	stop whenever I want to.                             |
+---------------------------------------------------------|---------------------
+As a user, I want to create directories, so that         |		1 Day
+	I can manage my files.                               |
+---------------------------------------------------------|---------------------
+As a user, I want to create files, so that I can         |		1 Day
+	write contents in the file named with my preference. |
+---------------------------------------------------------|---------------------
+As a user, I want to edit files, so that I can           |		1 Day
+	append or overwrite the contents in the file.        |
+---------------------------------------------------------|---------------------
+As a user, I want to move files, so that I can           |		1 Day
+	move them in to desired directories.                 |
+---------------------------------------------------------|---------------------
+As a user, I want to copy files, so that I can           |		1 Day
+	have multiple copies of files.                       |
+---------------------------------------------------------|---------------------
+As a user, I want to display contents of files,          |		1 Day
+	so that I can know what is in the file.              |
+---------------------------------------------------------|---------------------
+As a user, I want to change my working directories,      |
+	so that I can manage file and directories in         |		1 Day
+	the working directory.                               |
+---------------------------------------------------------|---------------------
+As a user, I want to print out current working           |		1 Day
+	directory, so that I know where I am working.        |
+---------------------------------------------------------|---------------------
+As a user, I want to list out all the contents of        |		1 Day
+	certain path, so that I know what is in there.       |
+---------------------------------------------------------|---------------------
+As a user, I want to read the manual of each command,    |		1 Day
+	so that I know how to use them.                      |
+---------------------------------------------------------|---------------------
+As a user, I want to execute my command in shell,        |		1 Day
+	so that I have a place to interact with computer.    |
+---------------------------------------------------------|---------------------

@@ -1,0 +1,8 @@
+Class name: JShellIsNotDirException
+Parent class: JShellException
+
+Responsibilities:
+* Print error message when an item supposed to be a directory is actually a file.
+
+Collaborators:
+* None

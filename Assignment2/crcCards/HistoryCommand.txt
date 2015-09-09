@@ -1,0 +1,13 @@
+Class name: HistoryCommand
+
+Parent class:JShellCommand 
+
+Responsibilities:
+* Check if the user input is valid or not
+* print out the recent commands 
+
+Collaborators:
+* JShellHistoryRecorder
+* JShellArgsInvalidException
+* FileSystem
+* Directory

@@ -1,0 +1,39 @@
+June 30 - July 5
+
+Product Backlog Items to be implemented:
+a) Allow user to create a file system based on input.
+
+b) As a user, I want to create directories, so that 
+can manage my files.
+
+c) As a user, I want to create files, so that I can 
+write contents in the file named with my preference.
+
+d) As a user, I want to execute my command in shell,
+so that I have a place to interact with computer.
+
+e) As a user, I want to quit the program, so I can
+stop whenever I want to.
+
+Specific tasks to be accomplished:
+a-1. (File System) Initialize root directory
+a-2. (File System) Search for and returns path of a directory or file
+a-3. (File System) Find the directory/file for the given path
+b-1. (Directory) Write base code for the Directory class
+c-1. (File) Write base code for the File class
+d-1. (JShell) Prompt user for input, and runs functions based on input
+d-2  (JShell) Keeps track of current directory
+d-3. (CmdManager) Manage all commands and finds correct one to run.
+d-4. (CmdManager) Create exception for when command doesn't exist.
+d-5. (CmdReader) Process user input. 
+e-1. (JShellCommand) Write code for overall class for commands 
+e-2. (ExitCommand) Write code for Exit command
+
+Tasks are assigned as follows:
+Tom He: d-1 -> d-4
+
+Ran Yang: a-1 -> a-3
+
+Ruolan Wang: d-5, e-1, e-2
+
+Jiawei Zhao: b-1, c-1

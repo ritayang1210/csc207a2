@@ -1,0 +1,12 @@
+Class name: CmdProcessor
+Parent class: None
+
+Responsibilities:
+* read the user input and identify the command name and arguments
+* process the user input for grep command
+* throw JShellArgsInvalidException when arguments invalid
+
+Collaborators:
+* JShellRedirector
+* GrepCommand
+* JShellArguments

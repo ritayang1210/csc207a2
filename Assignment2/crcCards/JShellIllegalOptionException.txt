@@ -1,0 +1,8 @@
+Class Name: JShellIllegalOptionException
+Parent Class: JShellException
+
+Responsibilities:
+* Print Error message when the option does not exist.
+
+Collaborators:
+* None

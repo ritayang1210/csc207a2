@@ -1,0 +1,13 @@
+get URL
+
+URL is a web address. Retrieve the file at that URL and add it to the current 
+working directory. 
+Example1:
+get http://www.cs.cmu.edu/~spok/grimmtmp/073.txt 
+Will get the contents of the file i.e. 073.txt and create a file called 
+073.txt with the contents in the current working directory. 
+Example2:
+get http://www.ub.edu/gilcub/SIMPLE/simple.html 
+Will get the contents of the file i.e. simple.html (raw html) and 
+create a file called simple.html with the contents in the current 
+working directory. 

@@ -1,0 +1,8 @@
+Class Name: JShellFileExistsException
+Parent Class: JShellException
+
+Responsibilities:
+* Print Error message when a file or directory has already existed.
+
+Collaborators:
+* None

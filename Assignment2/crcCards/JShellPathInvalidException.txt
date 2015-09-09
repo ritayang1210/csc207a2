@@ -1,0 +1,8 @@
+Class Name: JShellPathInvalidException
+Parent Class: JShellException
+
+Responsibilities:
+* Print Error message when a path cannot be traced
+
+Collaborators:
+* None

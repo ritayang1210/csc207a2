@@ -1,0 +1,8 @@
+Class name: JShellDirStackEmptyException
+Parent class: JShellException
+
+Responsibilities:
+* print error message when directory stack is empty.
+
+Collaborators:
+* None

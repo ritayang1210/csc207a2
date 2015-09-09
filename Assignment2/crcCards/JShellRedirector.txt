@@ -1,0 +1,14 @@
+Class name: JShellRedirector
+
+Responsibilities:
+* Redirect output string to a existing file
+* Create a new file before redirection
+* Append or overwrite the contents of a file
+
+Collaborators:
+* JShellPathInvalidException
+* JShellFileNotFoundException
+* JShellIsNotFileException
+* FileSystem
+* Directory
+* File

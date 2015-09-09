@@ -1,0 +1,10 @@
+What did I do last time?
+    - update sprint and product backlog
+    - Planning for sprint 4
+    - Brainstorm for historyCommand
+
+What do I plan to do now?
+    - Complete historyCommand 
+
+Am I blocked on anything?
+    - None

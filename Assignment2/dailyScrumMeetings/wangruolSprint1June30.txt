@@ -1,0 +1,13 @@
+What did I do last time?
+    - brainstorm design ideas with team for CRC Card. 
+    - wrote the product backlog after discussing 
+    - assigned the work to each member 
+    - discussed the implementation of file system 
+
+What do I plan to do now?
+    - commit Command CRC Card
+    - work on new tasks for sprint 2
+        - start and finish FileSystem 
+
+Am I blocked on anything?
+    - how to implement directory contents

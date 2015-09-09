@@ -1,0 +1,8 @@
+What did I do last time?
+    - Implement MvCommandTest, ManCommandTest, EchoCommandTest and MkdirCommandTest
+    - Add comments to junit tests
+    - Refactor codes and update CRC
+    - Debug
+   
+Am I blocked on anything?
+    - Spent a lot of time on JShellTest which is an integration test of the program

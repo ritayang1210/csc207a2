@@ -1,0 +1,11 @@
+What did I do last time?
+    - Implementing FileSystem
+    - Adding more exceptions and improving error message
+    - Refactor File/Directory classes
+    - Updating CRC cards to match latest design
+
+What do I plan to do now?
+    - Creating JUnit test for FileSystem
+
+Am I blocked on anything?
+    - None

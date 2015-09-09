@@ -1,0 +1,5 @@
+grep [-R] REGEX PATH...
+If –R is not supplied, print any lines containing REGEX in PATH, which must
+be a file. If –R is supplied, and PATH is a directory, recursively traverse the 
+directory and, for all lines in all files that contain REGEX, print the path to the 
+file (including the filename), then a colon, then the line that contained REGEX.

@@ -1,0 +1,3 @@
+cat FILE
+
+Display the contents of FILE in the shell.

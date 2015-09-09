@@ -1,0 +1,11 @@
+Class name: JShellException
+Parent class: Exception
+
+Subclasses: JShellArgsInvalidException, JShellCommandNotFoundException, JShellDirStackEmptyException, JShellEventNotFoundException, JShellException, JShellExpectedExitExceptiopn, JShellFileExistsException, JShellFileNotFoundException, JShellIllegalOptionException, JShellIsNotDirException, JShellIsNotFileException, JShellMoveParentToChildException, JShellNoManualEntryException, JShellPathInvalidException, JShellURLInvalidException
+
+Responsibilities:
+* abstract class for all JShell exceptions.
+* print error message
+
+Collaborators:
+* None

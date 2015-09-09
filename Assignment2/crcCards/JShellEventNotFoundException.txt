@@ -1,0 +1,8 @@
+Class Name: JShellEventNotFoundException
+Parent Class: JShellException
+
+Responsibilities:
+* Print Error message when the event can not be found.
+
+Collaborators:
+* None

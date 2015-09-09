@@ -1,0 +1,13 @@
+What did I do last time?
+	-Implementing JShell which prompts user for input, 
+	and runs functions based on input
+	-Implementing CmdManager which manages all commands 
+	and finds correct one to run
+	-Created exception for when command doesn't exist
+	-Worked on CRC cards
+
+What do I plan to do now?
+	-Unit tests for JShell and CmdManager
+
+Am I blocked on anything?
+	-None

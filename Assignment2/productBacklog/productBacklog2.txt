@@ -1,0 +1,31 @@
+User stories
+Format:
+As ... I want to ... so that ...
+
+                                                         |    Estimated Time
+---------------------------------------------------------|---------------------
+As a user, I want to keep track of the output of any     |		1 Day
+	command so that I read remember them.                |
+---------------------------------------------------------|---------------------
+As a user, I want to recursively list sub directories,   |		1 Day
+	so I can know all my files.                          |
+---------------------------------------------------------|---------------------
+As a user, I want to get files from the web, so I can    |		1 Day
+	get new files.                                       |
+---------------------------------------------------------|---------------------
+As a user, I want to change directories and while saving |		1 Day
+	the current one so I can return to it.               |
+---------------------------------------------------------|---------------------
+As a user, I want to keep track of the commands I use so |		1 Day
+	that I can remember what I have done.                |
+---------------------------------------------------------|---------------------
+As a user, I want to quickly reuse past commands, so that|		1 Day
+	I can save time.                                     |
+---------------------------------------------------------|---------------------
+As a user, I want to be able to find certain contents of |		1 Day
+	my files, so that I can read them.                   |
+---------------------------------------------------------|---------------------
+As a user, I want my program to run correctly with few   |              
+	bugs, so that the behaviors of the program is within |
+	my expectation.										 |
+---------------------------------------------------------|---------------------

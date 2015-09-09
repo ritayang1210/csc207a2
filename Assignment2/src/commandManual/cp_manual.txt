@@ -1,0 +1,4 @@
+cp OLDPATH NEWPATH
+
+Like mv, but don’t remove OLDPATH. If OLDPATH is a directory, recursively 
+copy the contents.

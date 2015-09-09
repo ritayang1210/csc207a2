@@ -1,0 +1,22 @@
+July 14 - July 17
+
+Product Backlog Items to be implemented:
+a)As a user, I want my program to run correctly with few bugs, so that the 
+	behaviors of the program is within my expectation.
+
+Specific tasks to be implemented:
+a. Implement JUNIT Test for MkdirCommand
+b-c. Implement JUNIT Test for EchoCommand
+d. Implement JUNIT Test for MvCommand
+e. Implement JUNIT Test for CpCommand
+f. Implement JUNIT Test for CatCommand
+g. Implement JUNIT Test for CdCommand
+h. Implement JUNIT Test for PwdCommand
+i. Implement JUNIT Test for LsCommand
+j. Implement JUNIT Test for ManCommand
+
+Tasks are assigned as follows:
+Tom He: f,g,i
+Ran Yang: a,d,j
+Ruolan Wang: b-c, h
+Jiawei Zhao: e

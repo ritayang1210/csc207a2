@@ -1,0 +1,8 @@
+Class Name: JShellFileNotFoundException
+Parent Class: JShellException
+
+Responsibilities:
+* Print Error message when a file or directory cannot be found
+
+Collaborators:
+* None

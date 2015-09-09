@@ -1,0 +1,8 @@
+Class name: JShellArgsInvalidException
+Parent class: JShellException
+
+Responsibilities:
+* Print error message when arguments are invalid.
+
+Collaborators:
+* None

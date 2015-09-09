@@ -1,0 +1,10 @@
+What did I do last time?
+	-Implemented PwdCommand
+
+What do I plan to do now?
+	-Implement EchoCommand
+	-Write ExitCommandTest 
+
+
+Am I blocked on anything?
+	-None

@@ -1,0 +1,18 @@
+Name: Jiawei Zhao
+UtorID: zhaoji25
+CDF: g4zhaoji
+
+Date:July 30th, 2015
+
+What did I do last last time?
+	- To implement GrepCommandTest
+	- To implement GetCommand
+	- To implement GetCommandTest
+	- Add helper method to Command Processor
+	- Maintained JShell UnitTest
+
+What do I plan to do now?
+	- To review and do integrated test
+	
+Am I blocked on anything?
+	- None;

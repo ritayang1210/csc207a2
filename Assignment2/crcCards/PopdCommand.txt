@@ -1,0 +1,12 @@
+Class name: PopdCommand
+Parent class: JShellCommand
+
+Responsibilities:
+* check the arguments of command that the user types is valid or not
+* Notifies JShell to pop the top directory and cd into it.
+
+Collaborators:
+* FileSystem
+* Directory
+* File
+* JShellDirStackEmptyException 

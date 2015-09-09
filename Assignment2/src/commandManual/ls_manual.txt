@@ -1,0 +1,9 @@
+ls [PATH ... ]
+
+If no paths are given, print the contents (file or directory) of the current 
+directory, with a new line following each of the content (file or directory). 
+Otherwise, for each path p, the order listed:
+    • If p specifies a file, print p (i.e. the name of the file only)
+    • If p specifies a directory, print p, a colon, then the contents of 
+      that directory, then an extra new line.
+    • If p does not exist, print a suitable error message.

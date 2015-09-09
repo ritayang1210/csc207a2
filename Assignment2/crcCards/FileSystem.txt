@@ -1,0 +1,18 @@
+Class Name: FileSystem
+Parent Class: None
+
+Responsibilities:
+* Initiates and maintains a constant root directory
+* Get file or directory with a given path
+* Get the path with a given File
+* Throw JShellFileNotFoundException when file cannot be found
+* Throw JShellPathInvalidException when given path is invalid
+* Identify if a directory is a sub-directory of another directory
+* Check if a directory is a sub-directory of another directory
+* Process a path to figure out the path of the parent directory and the name of the child
+
+Collaborators:
+* File
+* Directory
+* JShellFileNotFoundException
+* JShellPathInvalidException

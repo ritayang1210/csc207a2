@@ -1,0 +1,8 @@
+Class name: JShellExpectedExitExceptiopn
+Parent class: JShellException
+
+Responsibilities:
+* Gets thrown when exit command gets called
+
+Collaborators:
+* None

@@ -1,0 +1,45 @@
+July 6 - July 12
+
+Product Backlog Items to be implemented:
+a)As a user, I want to create directories, so that I can manage my files.
+
+b)As a user, I want to create files, so that I can write contents.
+
+c)As a user, I want to edit files, so that I can append or overwrite 
+  the contents in the file.
+
+d)As a user, I want to move files, so that I can move them into directories.
+
+e)As a user, I want to copy files, so that I can have multiple copies.
+
+f)As a user, I want to display contents of files, so that I can read what is 
+  in the file. 
+
+g)As a user, I want to change my working directories, so that I can manage 
+  files and directories in the working directory.
+
+h)As a user, I want to print out current working directory,so that I know 
+  where I am working.
+
+i)As a user, I want to list out all the contents of a certain path, so that
+  I know what is in there.
+
+j)As a user, I want to read the manual of each command, so that I know how
+  to use commands.
+
+Specific tasks to be implemented:
+a. Implement MkdirCommand
+b-c. Implement EchoCommand
+d. Implement MvCommand
+e. Implement CpCommand
+f. Implement CatCommand
+g. Implement CdCommand
+h. Implement PwdCommand
+i. Implement LsCommand
+j. Implement ManCommand
+
+Tasks are assigned as follows:
+Tom He: f,g,i
+Ran Yang: a,d,j
+Ruolan Wang: b-c, h
+Jiawei Zhao: e

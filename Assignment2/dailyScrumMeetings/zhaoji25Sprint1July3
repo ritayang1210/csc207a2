@@ -1,0 +1,17 @@
+Name: Jiawei Zhao
+UtorID: zhaoji25
+CDF: g4zhaoji
+
+Date:July 3rd, 2015
+
+What did I do last last time?
+	- Implemented class Directory;
+	- Implemented class File;
+	- Updated CRC cards;
+
+What do I plan to do now?
+	- Write unit test for class Directory;
+	- Write unit test for class File;
+	
+Am I blocked on anything?
+	- Learn how to write unit test;

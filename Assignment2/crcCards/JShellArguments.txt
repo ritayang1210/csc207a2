@@ -1,0 +1,7 @@
+Class name: JShellArguments
+
+Responsibilities:
+* Storage class to store the user input in one object
+
+Collaborators:
+None

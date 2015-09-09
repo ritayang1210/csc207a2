@@ -1,0 +1,15 @@
+Class name: PushdCommand
+Parent class: JShellCommand
+
+Responsibilities:
+* check the arguments of command that the user types is valid or not
+* Finds the directory to change into and notifies JShell to push the current
+directory into the directory stack and swtich directories
+
+Collaborators:
+* FileSystem
+* Directory
+* File
+* JShellFileNotFoundException
+* JShellPathInvalidException
+* JShellIsNotDirException

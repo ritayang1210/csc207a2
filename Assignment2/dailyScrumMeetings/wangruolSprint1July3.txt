@@ -1,0 +1,10 @@
+What did I do last time?
+    - Implementing JShellCommand and ExitCommand 
+    - Improving error message and renaming factory method
+    - Updating CRC cards to match latest design
+
+What do I plan to do now?
+    - Creating JUnit test for CmdReader and ExitCommand
+
+Am I blocked on anything?
+    - None

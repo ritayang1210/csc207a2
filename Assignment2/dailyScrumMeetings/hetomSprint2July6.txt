@@ -1,0 +1,10 @@
+What did I do last time?
+	-Unit tests for CmdManager, JShell unit tests was postponed
+
+What do I plan to do now?
+	-Implement CdCommand
+	-Implement LsCommand
+	-Implement CatCommand
+
+Am I blocked on anything?
+	-None

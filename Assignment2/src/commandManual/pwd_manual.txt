@@ -1,0 +1,3 @@
+pwd
+
+Print the current working directory path. (i.e. the whole absolute path)

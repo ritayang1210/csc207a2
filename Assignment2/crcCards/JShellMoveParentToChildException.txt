@@ -1,0 +1,8 @@
+Class name: JShellMoveParentToChildException
+Parent class: JShellException
+
+Responsibilities:
+* Print error message when moving/copying a directory to its child
+
+Collaborators:
+* None

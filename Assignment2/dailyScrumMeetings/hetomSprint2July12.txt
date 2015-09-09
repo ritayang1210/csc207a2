@@ -1,0 +1,8 @@
+What did I do last time?
+	-Implemented CatCommand
+
+What do I plan to do now?
+	-Unit test for CatCommand, LsCommand, CdCommand
+
+Am I blocked on anything?
+	-None

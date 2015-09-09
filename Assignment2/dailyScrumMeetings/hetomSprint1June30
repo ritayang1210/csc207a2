@@ -1,0 +1,13 @@
+What did I do last time?
+	-Discussing and creating Product Backlog
+	-Discussing and creating Sprint Backlog1
+	-Discussing on how to implement File System
+	-Discussing on how to implement the program
+What do I plan to do now?
+	-Create JShell which prompts user for input, 
+	and runs functions based on input
+	-Create CmdManager which manages all commands 
+	and finds correct one to run
+	-Create exception for when command doesn't exist
+Am I blocked on anything?
+	-None

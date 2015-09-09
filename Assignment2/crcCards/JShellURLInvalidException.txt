@@ -1,0 +1,8 @@
+Class Name: JShellURLInvalidException
+Parent Class: JShellException
+
+Responsibilities:
+* Print Error message when the the URL is not valid.
+
+Collaborators:
+* None
