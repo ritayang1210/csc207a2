@@ -19,11 +19,11 @@ public class CatCommand extends JShellCommand {
   public static final String CMD_NAME = "cat";
   public static final String USAGE = "cat FILE";
 
-  public CatCommand() {
-    numOfRequiredArgs = NUM_OF_REQUIRED_ARGS;
-    cmdName = CMD_NAME;
-    cmdUsage = PREFIX_USAGE + USAGE;
-  }
+  // public CatCommand() {
+  // numOfRequiredArgs = NUM_OF_REQUIRED_ARGS;
+  // cmdName = CMD_NAME;
+  // cmdUsage = PREFIX_USAGE + USAGE;
+  // }
 
 
   /**
